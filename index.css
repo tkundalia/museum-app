@@ -1,3 +1,24 @@
 body {
-    background-color: rgb(196, 136, 101);
+    background-color: rgb(141, 98, 73);
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+
+    margin: 0;
+    padding: 2rem 0;
+    width: 100%;
+}
+
+main {
+    background: white;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 2rem 0;
+  }
+
+  h1 {
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;  
 }
